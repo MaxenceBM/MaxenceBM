@@ -1,3 +1,6 @@
+
+![Hi, I'm Maxence !](https://github.com/MaxenceBM/MaxenceBM/assets/114593307/84f9b971-9d0f-4e58-a69d-9ea544bfed7d)
+
 ## Hi 👋, I'm Maxence
 ### Web Developer
 🎓 I'm studying at WildCodeSchool </br>
