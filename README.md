@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Maxence
 ### Web Developer
-🎓 I'm studying at WildCodeSchool
+🎓 I'm studying at WildCodeSchool </br>
 💻 I’m currently working on project Ferme BLUM
 <!--
 **MaxenceBM/MaxenceBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
