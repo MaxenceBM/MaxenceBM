@@ -2,9 +2,14 @@
 ![Hi, I'm Maxence !](https://github.com/MaxenceBM/MaxenceBM/assets/114593307/84f9b971-9d0f-4e58-a69d-9ea544bfed7d)
 
 ### Web Developer
-🎓 I'm studying at WildCodeSchool </br>
+🎓 I've studied at WildCodeSchool </br>
 💻 I’m currently working on project Ferme BLUM </br>
-🌱 I’m currently learning Vue.js Next.js
+📚 I’m currently learning Vue.js Next.js
+
+### Contact :
+📧 How to reach me: maxenceblumpro@gmail.com
+![image](https://github.com/MaxenceBM/MaxenceBM/assets/114593307/16084b8e-7d9d-4747-a31f-419ee143de19)
+
 <!--
 **MaxenceBM/MaxenceBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
