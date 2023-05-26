@@ -3,7 +3,7 @@
 
 ### Web Developer
 🎓 I'm studying at WildCodeSchool </br>
-💻 I’m currently working on project Ferme BLUM
+💻 I’m currently working on project Ferme BLUM </br>
 🌱 I’m currently learning Vue.js Next.js
 <!--
 **MaxenceBM/MaxenceBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
