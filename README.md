@@ -8,7 +8,7 @@
 
 ### Contact :
 📧 How to reach me: maxenceblumpro@gmail.com
-![image](https://github.com/MaxenceBM/MaxenceBM/assets/114593307/16084b8e-7d9d-4747-a31f-419ee143de19)
+
 
 <!--
 **MaxenceBM/MaxenceBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
