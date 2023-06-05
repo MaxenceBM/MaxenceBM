@@ -4,7 +4,7 @@
 ### Web Developer
 🎓 I've studied at WildCodeSchool </br>
 💻 I’m currently working on project Ferme BLUM </br>
-📚 I’m currently learning Vue.js Next.js
+📚 I’m currently learning Vue.js TypeScript
 
 ### Contact :
 📧 How to reach me: maxenceblumpro@gmail.com
