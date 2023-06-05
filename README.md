@@ -7,7 +7,9 @@
 📚 I’m currently learning Vue.js TypeScript
 
 ### Contact :
-📧 How to reach me: maxenceblumpro@gmail.com
+📧 How to reach me: maxenceblumpro@gmail.com </br>
+Linkedin: https://www.linkedin.com/in/maxenceblum/
+
 
 
 <!--
